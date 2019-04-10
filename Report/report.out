@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{section*.4}{List of Tables}{}% 1
+\BOOKMARK [0][-]{section*.5}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Section}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.1}{Subsection}{section.1.1}% 5
+\BOOKMARK [0][-]{chapter.2}{System Overview}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Geographic Coordinate System}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Mapping}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Custom Coordinate System}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{Angle Beta}{section.2.3}% 10
+\BOOKMARK [0][-]{chapter.3}{System Design}{}% 11
+\BOOKMARK [1][-]{section.3.1}{Floe Navigation App Architecture}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.2}{Services}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.2.1}{GPS Service}{section.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.2.2}{Network Service}{section.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.2.3}{AIS Decoding Service}{section.3.2}% 16
+\BOOKMARK [2][-]{subsection.3.2.4}{Alpha Calculation Service}{section.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.2.5}{Angle Calculation Service}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.6}{Prediction Service}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.7}{Validation Service}{section.3.2}% 20
+\BOOKMARK [0][-]{chapter.4}{Implementation Consideration}{}% 21
+\BOOKMARK [1][-]{section.4.1}{Development Environment}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.1.1}{Setting Up Android Development Environment}{section.4.1}% 23
+\BOOKMARK [0][-]{chapter.5}{Floe Navigation App Overview}{}% 24
+\BOOKMARK [1][-]{section.5.1}{User Menu}{chapter.5}% 25
+\BOOKMARK [2][-]{subsection.5.1.1}{Dashboard}{section.5.1}% 26
+\BOOKMARK [2][-]{subsection.5.1.2}{Grid}{section.5.1}% 27
+\BOOKMARK [2][-]{subsection.5.1.3}{Deployment}{section.5.1}% 28
+\BOOKMARK [2][-]{subsection.5.1.4}{Waypoint}{section.5.1}% 29
+\BOOKMARK [2][-]{subsection.5.1.5}{Sample/Measurement}{section.5.1}% 30
+\BOOKMARK [1][-]{section.5.2}{Admin Menu}{chapter.5}% 31
+\BOOKMARK [2][-]{subsection.5.2.1}{Admin Dashboard}{section.5.2}% 32
+\BOOKMARK [2][-]{subsection.5.2.2}{Grid Initial Configuration}{section.5.2}% 33
+\BOOKMARK [2][-]{subsection.5.2.3}{Configuration}{section.5.2}% 34
+\BOOKMARK [2][-]{subsection.5.2.4}{Synchronization}{section.5.2}% 35
+\BOOKMARK [2][-]{subsection.5.2.5}{Recovery}{section.5.2}% 36
+\BOOKMARK [2][-]{subsection.5.2.6}{Administrator Privileges}{section.5.2}% 37
+\BOOKMARK [2][-]{subsection.5.2.7}{AIS Station Deployment}{section.5.2}% 38
+\BOOKMARK [0][-]{appendix.A}{Appendix A}{}% 39
+\BOOKMARK [0][-]{appendix*.7}{Bibliography}{}% 40

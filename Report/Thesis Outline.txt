@@ -1,0 +1,45 @@
+Abstract
+-1. Introduction (Nadeem)
+	-- 1.1 Motivation (Nadeem)
+	-- 1.2 MOSAIC 
+	-- 1.3 AIS
+-2. Literature Review (Optional)
+	-- Navigation (Rintu) 
+	-- Navigation in Android 
+	-- Navigation using AIS
+	-- Navigation for a moving System (Rintu)
+-3. Goal (Define all Fixed, Mobile, Waypoint stations etc)
+	-- Requirements Sheet
+
+-4. System Overview (Theortical Coordinate System)
+	-- GPS
+	-- Mapping (2D Projection)
+	-- Custom Coordinate System
+-5. System Design
+	-- App Architecture
+		-- Services
+		-- Database
+		-- User Interface
+	-- Synchronization System
+-6. Implementation Consideration
+	-- Development Environment Setup
+-7. System Implementation
+	-- Android 
+		-- Services
+		-- Database
+		-- User Interface
+	-- Sync Server
+		---PHP 
+		---Database
+-8. Floe Navigation App Overview
+		--User Menu
+		--Administrator Menu
+
+-9. Testing
+	-- Normal Testing 
+	-- Test Bench (Sangeeta's System)
+	-- Field Testing (Finland)
+-10. Product Maturity
+-11. Conclusion
+-12. Future Scope
+

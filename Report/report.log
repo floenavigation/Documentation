@@ -1,0 +1,2953 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.1.31)  10 APR 2019 17:18
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nag\nag.sty"
+Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
+\c@nag@c=\count80
+\c@nag@sins=\count81
+Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/nag\nag-l2tabu.cfg"
+File: nag-l2tabu.cfg 2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
+)) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memoir.cl
+s"
+Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count82
+\c@@memmarkcntra=\count83
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifetex\ifetex.sty"
+Package: ifetex 2018/03/31 v1.2a ifetex
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/plain/ifetex\ifetex.tex")
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.s
+ty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\mem11.clo"
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count84
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count85
+\c@part=\count86
+\c@chapter=\count87
+\c@section=\count88
+\c@subsection=\count89
+\c@subsubsection=\count90
+\c@paragraph=\count91
+\c@subparagraph=\count92
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count93
+\c@@ppsaveapp=\count94
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count95
+\c@poemline=\count96
+\c@modulo@vs=\count97
+\c@memfvsline=\count98
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count99
+\c@chrsinstr=\count100
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count101
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen107
+\ar@mcellbox=\box27
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\ar@cellbox=\box28
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\delarray.st
+y"
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count102
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count103
+\@cmidlb=\count104
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count105
+\@lastruleclass=\count106
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count107
+\@linestogo=\count108
+\@cellstogo=\count109
+\@cellsincolumn=\count110
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count111
+\mem@margin@floatbox=\box29
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count112
+\m@mscap@capbox=\box30
+\m@mscap@fbox=\box31
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7592.
+LaTeX Info: Redefining \emph on input line 7600.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count113
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count114
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count115
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count116
+\c@pagenoteshadow=\count117
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count118
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count119
+\c@bvlinectr=\count120
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count121
+LaTeX Info: Redefining \: on input line 12114.
+LaTeX Info: Redefining \! on input line 12116.
+\c@ism@mctr=\count122
+\c@xsm@mctr=\count123
+\c@csm@mctr=\count124
+\c@ksm@mctr=\count125
+\c@xksm@mctr=\count126
+\c@cksm@mctr=\count127
+\c@msm@mctr=\count128
+\c@xmsm@mctr=\count129
+\c@cmsm@mctr=\count130
+\c@bsm@mctr=\count131
+\c@workm@mctr=\count132
+\c@sheetsequence=\count133
+\c@lastsheet=\count134
+\c@lastpage=\count135
+\c@figure=\count136
+\c@lofdepth=\count137
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count138
+\c@lotdepth=\count139
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetime.s
+ty"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.s
+ty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count140
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcount.s
+ty"
+Package: fmtcount 2017/12/24 v3.05
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
+ex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
+tex"
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval.te
+x"))
+\XKV@depth=\count141
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefix.s
+ty"
+Package: fcprefix 2012/09/28
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumparse
+r.sty"
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count142
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen147
+)
+\c@padzeroesN=\count143
+\fc@tmpcatcode=\count144
+\@DT@modctr=\count145
+\@ordinalctr=\count146
+\@orgargctr=\count147
+\@strctr=\count148
+\@tmpstrctr=\count149
+\@DT@loopN=\count150
+\@DT@X=\count151
+
+
+Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
+nput line 484.
+
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetime-d
+efaults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count152
+\@month=\count153
+\@year=\count154
+\c@HOUR=\count155
+\c@HOURXII=\count156
+\c@MINUTE=\count157
+\c@TOHOUR=\count158
+\c@TOMINUTE=\count159
+\c@SECOND=\count160
+\currenthour=\count161
+\currentminute=\count162
+\currentsecond=\count163
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count164
+\dayofyear=\count165
+\dayofweek=\count166
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks25
+\dt@b=\toks26
+)
+\c@subfigure=\count167
+\cftbeforesubfigureskip=\skip185
+\cftsubfigureindent=\skip186
+\cftsubfigurenumwidth=\skip187
+\c@subtable=\count168
+\cftbeforesubtableskip=\skip188
+\cftsubtableindent=\skip189
+\cftsubtablenumwidth=\skip190
+
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 636.60028pt by 448pt
+Spine and edge margins: 74.67651pt and 74.70135pt
+Upper and lower margins: 113.81102pt and 94.63554pt
+Headheight and headsep: 13.6pt and 27.20001pt
+Footskip: 27.20001pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 17pt and 51pt
+Sidecapsep and sidecapwidth: 7pt and 101pt
+Sidebarhsep and sidebarwidth: 7pt and 101pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 594.32022pt
+Sidefoothsep and sidefootwidth: 7pt and 101pt
+Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
+******************************************************
+
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fouriernc\fouriernc
+.sty"
+Package: fouriernc 2005/12/20 1.0 fouriernc package
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fourier\fourier.sty
+"
+Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
+Now handling font encoding FML ...
+... no UTF-8 mapping file for font encoding FML
+Now handling font encoding FMS ...
+... no UTF-8 mapping file for font encoding FMS
+Now handling font encoding FMX ...
+... no UTF-8 mapping file for font encoding FMX
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fourier\fourier-orn
+s.sty"
+Package: fourier-orns 2004/01/30 1.1 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/futs/m/n on input line 50.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/m/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 59.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> FML/futmi/m/it on input line 59.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> FML/futmi/m/it on input line 59.
+\symotherletters=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 61.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 62.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 68.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 69.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 113.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> FMS/futm/m/n on input line 113.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 113.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> FMS/futm/m/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 114.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+14.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 114.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 114
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 114.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 115.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 115.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 115.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 116.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 117.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/futs/m/it on input line 117.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/futs/m/it on input line 117.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 187.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 210.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 215.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 225.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 227.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 229.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 231.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 233.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 235.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 237.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 239.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 241.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 243.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 247.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 248.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 249.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 250.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 251.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 252.
+LaTeX Font Info:    Redeclaring math accent \check on input line 253.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 254.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
+\symUfutm=\mathgroup5
+)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  FML/futmi/m/it --> FML/fncmi/m/it on input line 16.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/b/it --> FML/fncmi/m/it on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `otherletters' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `normal'
+(Font)                  FML/futm/m/it --> FML/fncm/m/it on input line 17.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/b/it --> FML/fncm/m/it on input line 17.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/fncmi/m/it --> FML/fncmi/b/it on input line 18.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/fncm/m/it --> FML/fncm/b/it on input line 19.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/b/n --> T1/fnc/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/fnc/m/n --> T1/fnc/b/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  T1/futs/bx/n --> T1/fnc/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/futs/bx/n --> T1/fnc/b/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  T1/futs/m/it --> T1/fnc/m/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/futs/m/it --> T1/fnc/m/it on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 38.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count169
+\calc@Bcount=\count170
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip191
+\calc@Bskip=\skip192
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count171
+\calc@Cskip=\skip193
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks27
+\SOUL@lasttoken=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
+\SOUL@spaceskip=\skip194
+\SOUL@ttwidth=\dimen150
+\SOUL@uldp=\dimen151
+\SOUL@ulht=\dimen152
+)
+\dlf@normtxtw=\skip256
+\feline@chapter=\box32
+\report@idxfile=\write4
+\openout4 = `report.idx'.
+
+
+Writing index file report.idx 
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\import.sty"
+Package: import 2009/03/23  v 5.1
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
+ty"
+\lst@mode=\count172
+\lst@gtempboxa=\box33
+\lst@token=\toks32
+\lst@length=\count173
+\lst@currlwidth=\dimen153
+\lst@column=\count174
+\lst@pos=\count175
+\lst@lostspace=\dimen154
+\lst@width=\dimen155
+\lst@newlines=\count176
+\lst@lineno=\count177
+\lst@maxwidth=\dimen156
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
+y"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count178
+\lst@skipnumbers=\count179
+\lst@framebox=\box34
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
+fg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2019-01-28 L3 programming layer (loader) 
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-code
+.tex"
+Package: expl3 2019-01-28 L3 programming layer (code)
+\c_max_int=\count180
+\l_tmpa_int=\count181
+\l_tmpb_int=\count182
+\g_tmpa_int=\count183
+\g_tmpb_int=\count184
+\g__kernel_prg_map_int=\count185
+\c_log_iow=\count186
+\l_iow_line_count_int=\count187
+\l__iow_line_target_int=\count188
+\l__iow_one_indent_int=\count189
+\l__iow_indent_int=\count190
+\c_zero_dim=\dimen157
+\c_max_dim=\dimen158
+\l_tmpa_dim=\dimen159
+\l_tmpb_dim=\dimen160
+\g_tmpa_dim=\dimen161
+\g_tmpb_dim=\dimen162
+\c_zero_skip=\skip257
+\c_max_skip=\skip258
+\l_tmpa_skip=\skip259
+\l_tmpb_skip=\skip260
+\g_tmpa_skip=\skip261
+\g_tmpb_skip=\skip262
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count191
+\l__intarray_loop_int=\count192
+\c__intarray_sp_dim=\dimen163
+\g__intarray_font_int=\count193
+\c__fp_leading_shift_int=\count194
+\c__fp_middle_shift_int=\count266
+\c__fp_trailing_shift_int=\count267
+\c__fp_big_leading_shift_int=\count268
+\c__fp_big_middle_shift_int=\count269
+\c__fp_big_trailing_shift_int=\count270
+\c__fp_Bigg_leading_shift_int=\count271
+\c__fp_Bigg_middle_shift_int=\count272
+\c__fp_Bigg_trailing_shift_int=\count273
+\c__kernel_randint_max_int=\count274
+\g__fp_array_int=\count275
+\l__fp_array_loop_int=\count276
+\l__sort_length_int=\count277
+\l__sort_min_int=\count278
+\l__sort_top_int=\count279
+\l__sort_max_int=\count280
+\l__sort_true_max_int=\count281
+\l__sort_block_int=\count282
+\l__sort_begin_int=\count283
+\l__sort_end_int=\count284
+\l__sort_A_int=\count285
+\l__sort_B_int=\count286
+\l__sort_C_int=\count287
+\l__tl_analysis_normal_int=\count288
+\l__tl_analysis_index_int=\count289
+\l__tl_analysis_nesting_int=\count290
+\l__tl_analysis_type_int=\count291
+\l__regex_internal_a_int=\count292
+\l__regex_internal_b_int=\count293
+\l__regex_internal_c_int=\count294
+\l__regex_balance_int=\count295
+\l__regex_group_level_int=\count296
+\l__regex_mode_int=\count297
+\c__regex_cs_in_class_mode_int=\count298
+\c__regex_cs_mode_int=\count299
+\l__regex_catcodes_int=\count300
+\l__regex_default_catcodes_int=\count301
+\c__regex_catcode_D_int=\count302
+\c__regex_catcode_S_int=\count303
+\c__regex_catcode_L_int=\count304
+\c__regex_catcode_O_int=\count305
+\c__regex_catcode_A_int=\count306
+\c__regex_all_catcodes_int=\count307
+\l__regex_show_lines_int=\count308
+\l__regex_min_state_int=\count309
+\l__regex_max_state_int=\count310
+\l__regex_left_state_int=\count311
+\l__regex_right_state_int=\count312
+\l__regex_capturing_group_int=\count313
+\l__regex_min_pos_int=\count314
+\l__regex_max_pos_int=\count315
+\l__regex_curr_pos_int=\count316
+\l__regex_start_pos_int=\count317
+\l__regex_success_pos_int=\count318
+\l__regex_curr_char_int=\count319
+\l__regex_curr_catcode_int=\count320
+\l__regex_last_char_int=\count321
+\l__regex_case_changed_char_int=\count322
+\l__regex_curr_state_int=\count323
+\l__regex_step_int=\count324
+\l__regex_min_active_int=\count325
+\l__regex_max_active_int=\count326
+\l__regex_replacement_csnames_int=\count327
+\l__regex_match_count_int=\count328
+\l__regex_min_submatch_int=\count329
+\l__regex_submatch_int=\count330
+\l__regex_zeroth_submatch_int=\count331
+\g__regex_trace_regex_int=\count332
+\c_empty_box=\box35
+\l_tmpa_box=\box36
+\l_tmpb_box=\box37
+\g_tmpa_box=\box38
+\g_tmpb_box=\box39
+\l__box_top_dim=\dimen164
+\l__box_bottom_dim=\dimen165
+\l__box_left_dim=\dimen166
+\l__box_right_dim=\dimen167
+\l__box_top_new_dim=\dimen168
+\l__box_bottom_new_dim=\dimen169
+\l__box_left_new_dim=\dimen170
+\l__box_right_new_dim=\dimen171
+\l__box_internal_box=\box40
+\l__coffin_internal_box=\box41
+\l__coffin_internal_dim=\dimen172
+\l__coffin_offset_x_dim=\dimen173
+\l__coffin_offset_y_dim=\dimen174
+\l__coffin_x_dim=\dimen175
+\l__coffin_y_dim=\dimen176
+\l__coffin_x_prime_dim=\dimen177
+\l__coffin_y_prime_dim=\dimen178
+\c_empty_coffin=\box42
+\l__coffin_aligned_coffin=\box43
+\l__coffin_aligned_internal_coffin=\box44
+\l_tmpa_coffin=\box45
+\l_tmpb_coffin=\box46
+\g_tmpa_coffin=\box47
+\g_tmpb_coffin=\box48
+\c__coffin_empty_coffin=\box49
+\l__coffin_display_coffin=\box50
+\l__coffin_display_coord_coffin=\box51
+\l__coffin_display_pole_coffin=\box52
+\l__coffin_display_offset_dim=\dimen179
+\l__coffin_display_x_dim=\dimen180
+\l__coffin_display_y_dim=\dimen181
+\g__file_internal_ior=\read2
+\l__coffin_bounding_shift_dim=\dimen182
+\l__coffin_left_corner_dim=\dimen183
+\l__coffin_right_corner_dim=\dimen184
+\l__coffin_bottom_corner_dim=\dimen185
+\l__coffin_top_corner_dim=\dimen186
+\l__coffin_scaled_total_height_dim=\dimen187
+\l__coffin_scaled_width_dim=\dimen188
+\l__seq_internal_a_int=\count333
+\l__seq_internal_b_int=\count334
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmode.
+def"
+File: l3pdfmode.def 2019-01-28 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count335
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
+parse.sty"
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count336
+\g__xparse_grabber_int=\count337
+\l__xparse_m_args_int=\count338
+\l__xparse_mandatory_args_int=\count339
+\l__xparse_v_nesting_int=\count340
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.t
+ex"
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip263
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen189
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count341
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count342
+\leftroot@=\count343
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count344
+\DOTSCASE@=\count345
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen190
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count346
+\c@MaxMatrixCols=\count347
+\dotsspace@=\muskip16
+\c@parentequation=\count348
+\dspbrk@lvl=\count349
+\tag@help=\toks33
+\row@=\count350
+\column@=\count351
+\maxfields@=\count352
+\andhelp@=\toks34
+\eqnshift@=\dimen191
+\alignsep@=\dimen192
+\tagshift@=\dimen193
+\tagwidth@=\dimen194
+\totwidth@=\dimen256
+\lineht@=\dimen257
+\@envbody=\toks35
+\multlinegap=\skip264
+\multlinetaggap=\skip265
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stmaryrd\stmaryrd.s
+ty"
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
+1.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip266
+\thm@postskip=\skip267
+\thm@headsep=\skip268
+\dth@everypar=\toks42
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\newlfont.sty
+"
+Package: newlfont 1998/08/17 v2.2m Standard LaTeX package
+LaTeX Info: Redefining \em on input line 57.
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/layouts\layouts.sty
+"
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip269
+\layoutsbox=\box55
+\l@youtunitlength=\skip270
+\l@youtlinethick=\skip271
+\l@youtlinethickii=\skip272
+\l@ysetupparskip=\skip273
+\l@ysetupbaselineskip=\skip274
+\l@yonem=\skip275
+\l@yonex=\skip276
+\l@ylmarg=\skip277
+\l@yrmarg=\skip278
+\l@yitmindent=\skip279
+\l@ylblwidth=\skip280
+\l@ylblsep=\skip281
+\l@ylparindent=\skip282
+\l@ytsep=\skip283
+\l@ypskip=\skip284
+\l@yptsep=\skip285
+\l@ypsep=\skip286
+\l@yitmsep=\skip287
+\l@ytok=\toks43
+\l@youtpw=\count353
+\l@youtph=\count354
+\l@youthpi=\count355
+\l@youthpii=\count356
+\l@youthpiii=\count357
+\l@youthpiv=\count358
+\l@youthpv=\count359
+\l@youthpvi=\count360
+\l@youthpvii=\count361
+\l@youtparskip=\count362
+\l@youtvpi=\count363
+\l@youtvpii=\count364
+\l@youtvpiii=\count365
+\l@youtvpiv=\count366
+\l@youtvpv=\count367
+\l@youtvpvi=\count368
+\l@youtvpvii=\count369
+\l@youthdo=\count370
+\l@youthdi=\count371
+\l@youthdii=\count372
+\l@youthdiii=\count373
+\l@youthdiv=\count374
+\l@youthdv=\count375
+\l@youthdvi=\count376
+\l@youthdvii=\count377
+\l@youtvdo=\count378
+\l@youtvdi=\count379
+\l@youtvdii=\count380
+\l@youtvdiii=\count381
+\l@youtvdiv=\count382
+\l@youtvdv=\count383
+\l@youtvdvi=\count384
+\l@youtvdvii=\count385
+\l@youtvdviii=\count386
+\l@youtxci=\count387
+\l@youtxcii=\count388
+\l@youtxciii=\count389
+\l@youtxciv=\count390
+\l@youtxcv=\count391
+\l@youtxcvi=\count392
+\l@youtyci=\count393
+\l@youtycii=\count394
+\l@youtyciii=\count395
+\l@youtyciv=\count396
+\l@youtycv=\count397
+\l@youtycvi=\count398
+\l@youtycvii=\count399
+\l@youtycviii=\count400
+\l@youtxco=\count401
+\l@youtyco=\count402
+\l@ytempdima=\skip288
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen258
+\Gin@req@width=\dimen259
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.sty
+"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip289
+\LTright=\skip290
+\LTpre=\skip291
+\LTpost=\skip292
+\LTchunksize=\count403
+\LTcapwidth=\dimen260
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@cols=\count404
+\LT@rows=\count405
+\c@LT@tables=\count406
+\c@LT@chunks=\count407
+\LT@p@ftn=\toks44
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating.s
+ty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count408
+\rotFPtop=\skip293
+\rotFPbot=\skip294
+\rot@float@box=\box60
+\rot@mess@toks=\toks45
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks46
+\inpenc@posthook=\toks47
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.s
+ty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks48
+\minrowclearance=\skip295
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wasysym\wasysym.sty
+"
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\mathrsfs.s
+ty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup11
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count409
+\float@exts=\toks49
+\float@box=\box61
+\@float@everytoks=\toks50
+\@floatcapt=\box62
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\upgreek.sty"
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty
+"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip296
+\bibsep=\skip297
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count410
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spani
+sh.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count411
+\U@D=\dimen261
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
+\bbl@dirlevel=\count412
+)
+\es@quottoks=\toks51
+\es@quotdepth=\count413
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
+ty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-h
+yperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-g
+eneric.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.st
+y"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen262
+\Hy@linkcounter=\count414
+\Hy@pagecounter=\count415
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count416
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.c
+fg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count417
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen263
+\Fld@menulength=\count418
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count419
+\c@Item=\count420
+\c@Hfootnote=\count421
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memhfixc.sty
+"
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count422
+\c@Hpagenote=\count423
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
+f"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count424
+\c@bookmark@seq@number=\count425
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilec
+heck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip298
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdwtools\footnote.s
+ty"
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box63
+\fn@width=\dimen266
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype
+.sty"
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+\MT@toks=\toks52
+\MT@count=\count426
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen267
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count427
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype
+-pdftex.def"
+File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 913.
+LaTeX Info: Redefining \lslig on input line 913.
+\MT@outer@space=\skip299
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtype
+.cfg"
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rotfloat\rotfloat.s
+ty"
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+) ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.
+sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrc
+s.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-common.tex"
+\pgfutil@everybye=\toks53
+\pgfutil@tempdima=\dimen268
+\pgfutil@tempdimb=\dimen269
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-common-lists.tex"))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-latex.def"
+\pgfutil@abb=\box64
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+rcs.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision.
+tex")
+Package: pgfrcs 2019/01/05 v3.1 (3.1)
+))
+Package: pgf 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfc
+ore.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgf
+sys.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys.code.tex"
+Package: pgfsys 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keys.code.tex"
+\pgfkeys@pathtoks=\toks54
+\pgfkeys@temptoks=\toks55
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks56
+))
+\pgf@x=\dimen270
+\pgf@y=\dimen271
+\pgf@xa=\dimen272
+\pgf@ya=\dimen273
+\pgf@xb=\dimen274
+\pgf@yb=\dimen275
+\pgf@xc=\dimen276
+\pgf@yc=\dimen277
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count428
+\c@pgf@countb=\count429
+\c@pgf@countc=\count430
+\c@pgf@countd=\count431
+\t@pgf@toka=\toks57
+\t@pgf@tokb=\toks58
+\t@pgf@tokc=\toks59
+\pgf@sys@id@count=\count432
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gf.cfg"
+File: pgf.cfg 2019/01/05 v3.1 (3.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/01/05 v3.1 (3.1)
+)))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/01/05 v3.1 (3.1)
+\pgfsyssoftpath@smallbuffer@items=\count433
+\pgfsyssoftpath@bigbuffer@items=\count434
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcore.code.tex"
+Package: pgfcore 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathc
+alc.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathu
+til.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathp
+arser.code.tex"
+\pgfmath@dimen=\dimen278
+\pgfmath@count=\count435
+\pgfmath@box=\box65
+\pgfmath@toks=\toks60
+\pgfmath@stack@operand=\toks61
+\pgfmath@stack@operation=\toks62
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.basic.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.trigonometric.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.random.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.comparison.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.base.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.round.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.misc.code.tex")
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.integerarithmetics.code.tex")))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+loat.code.tex"
+\c@pgfmathroundto@lastzeros=\count436
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@picminx=\dimen279
+\pgf@picmaxx=\dimen280
+\pgf@picminy=\dimen281
+\pgf@picmaxy=\dimen282
+\pgf@pathminx=\dimen283
+\pgf@pathmaxx=\dimen284
+\pgf@pathminy=\dimen285
+\pgf@pathmaxy=\dimen286
+\pgf@xx=\dimen287
+\pgf@xy=\dimen288
+\pgf@yx=\dimen289
+\pgf@yy=\dimen290
+\pgf@zx=\dimen291
+\pgf@zy=\dimen292
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@path@lastx=\dimen293
+\pgf@path@lasty=\dimen294
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@shorten@end@additional=\dimen295
+\pgf@shorten@start@additional=\dimen296
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/01/05 v3.1 (3.1)
+\pgfpic=\box66
+\pgf@hbox=\box67
+\pgf@layerbox@main=\box68
+\pgf@picture@serial@count=\count437
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/01/05 v3.1 (3.1)
+\pgflinewidth=\dimen297
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@pt@x=\dimen298
+\pgf@pt@y=\dimen299
+\pgf@pt@temp=\dimen300
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/01/05 v3.1 (3.1)
+\pgfarrowsep=\dimen301
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@max=\dimen302
+\pgf@sys@shading@range@num=\count438
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/01/05 v3.1 (3.1)
+\pgfexternal@startupbox=\box69
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/01/05 v3.1 (3.1)
+)))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/01/05 v3.1 (3.1)
+\pgfnodeparttextbox=\box70
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+gfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\t
+ikz.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgffo
+r.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfke
+ys.sty"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keys.code.tex"))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.st
+y"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex"))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+for.code.tex"
+Package: pgffor 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex")
+\pgffor@iter=\dimen303
+\pgffor@skip=\dimen304
+\pgffor@stack=\toks63
+\pgffor@toks=\toks64
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz\tikz.code.tex"
+Package: tikz 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@plot@mark@count=\count439
+\pgfplotmarksize=\dimen305
+)
+\tikz@lastx=\dimen306
+\tikz@lasty=\dimen307
+\tikz@lastxsaved=\dimen308
+\tikz@lastysaved=\dimen309
+\tikzleveldistance=\dimen310
+\tikzsiblingdistance=\dimen311
+\tikz@figbox=\box71
+\tikz@figbox@bg=\box72
+\tikz@tempbox=\box73
+\tikz@tempbox@bg=\box74
+\tikztreelevel=\count440
+\tikznumberofchildren=\count441
+\tikznumberofcurrentchild=\count442
+\tikz@fig@count=\count443
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+dulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/01/05 v3.1 (3.1)
+\pgfmatrixcurrentrow=\count444
+\pgfmatrixcurrentcolumn=\count445
+\pgf@matrix@numberofcolumns=\count446
+)
+\tikz@expandcount=\count447
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/01/05 v3.1 (3.1)
+)))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.sty
+"
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2e
+\l3keys2e.sty"
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box75
+\l__siunitx_tmp_dim=\dimen312
+\l__siunitx_tmp_int=\count448
+\l__siunitx_number_mantissa_length_int=\count449
+\l__siunitx_number_uncert_length_int=\count450
+\l__siunitx_round_int=\count451
+\l__siunitx_process_decimal_int=\count452
+\l__siunitx_process_uncertainty_int=\count453
+\l__siunitx_process_fixed_int=\count454
+\l__siunitx_process_integer_min_int=\count455
+\l__siunitx_process_precision_int=\count456
+\l__siunitx_group_min_int=\count457
+\l__siunitx_angle_marker_box=\box76
+\l__siunitx_angle_unit_box=\box77
+\l__siunitx_angle_marker_dim=\dimen313
+\l__siunitx_angle_unit_dim=\dimen314
+\l__siunitx_unit_int=\count458
+\l__siunitx_unit_denominator_int=\count459
+\l__siunitx_unit_numerator_int=\count460
+\l__siunitx_unit_prefix_int=\count461
+\l__siunitx_unit_prefix_base_int=\count462
+\l__siunitx_unit_prefix_gram_int=\count463
+\l__siunitx_number_product_int=\count464
+\c__siunitx_one_fill_skip=\skip300
+\l__siunitx_table_unit_align_skip=\skip301
+\l__siunitx_table_exponent_dim=\dimen315
+\l__siunitx_table_integer_dim=\dimen316
+\l__siunitx_table_mantissa_dim=\dimen317
+\l__siunitx_table_marker_dim=\dimen318
+\l__siunitx_table_result_dim=\dimen319
+\l__siunitx_table_uncert_dim=\dimen320
+\l__siunitx_table_fill_pre_dim=\dimen321
+\l__siunitx_table_fill_post_dim=\dimen322
+\l__siunitx_table_fill_mid_dim=\dimen323
+\l__siunitx_table_pre_box=\box78
+\l__siunitx_table_post_box=\box79
+\l__siunitx_table_mantissa_box=\box80
+\l__siunitx_table_result_box=\box81
+\l__siunitx_table_number_align_skip=\skip302
+\l__siunitx_table_text_align_skip=\skip303
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translat
+or.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2019/01/05 v3.1 (3.1)
+\arrowsize=\dimen324
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/sha
+pes\pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/sha
+pes\pgflibraryshapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/sha
+pes\pgflibraryshapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/sha
+pes\pgflibraryshapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.callouts.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/sha
+pes\pgflibraryshapes.callouts.code.tex"))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/sha
+pes\pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2019/01/05 v3.1 (3.1)
+\pgfnodepartlowerbox=\box82
+\pgfnodeparttwobox=\box83
+\pgfnodepartthreebox=\box84
+\pgfnodepartfourbox=\box85
+\pgfnodeparttwentybox=\box86
+\pgfnodepartnineteenbox=\box87
+\pgfnodeparteighteenbox=\box88
+\pgfnodepartseventeenbox=\box89
+\pgfnodepartsixteenbox=\box90
+\pgfnodepartfifteenbox=\box91
+\pgfnodepartfourteenbox=\box92
+\pgfnodepartthirteenbox=\box93
+\pgfnodeparttwelvebox=\box94
+\pgfnodepartelevenbox=\box95
+\pgfnodeparttenbox=\box96
+\pgfnodepartninebox=\box97
+\pgfnodeparteightbox=\box98
+\pgfnodepartsevenbox=\box99
+\pgfnodepartsixbox=\box100
+\pgfnodepartfivebox=\box101
+)))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarysnakes.code.tex"
+File: tikzlibrarysnakes.code.tex 2019/01/05 v3.1 (3.1)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen325
+\pgfdecoratedremainingdistance=\dimen326
+\pgfdecoratedinputsegmentcompleteddistance=\dimen327
+\pgfdecoratedinputsegmentremainingdistance=\dimen328
+\pgf@decorate@distancetomove=\dimen329
+\pgf@decorate@repeatstate=\count465
+\pgfdecorationsegmentamplitude=\dimen330
+\pgfdecorationsegmentlength=\dimen331
+)
+\tikz@lib@dec@box=\box102
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/dec
+orations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/dec
+orations\pgflibrarydecorations.pathreplacing.code.tex"))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.shapes.code.tex"
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/dec
+orations\pgflibrarydecorations.shapes.code.tex")))
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryautomata.code.tex"
+File: tikzlibraryautomata.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarybackgrounds.code.tex"
+File: tikzlibrarybackgrounds.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@layerbox@background=\box103
+\pgf@layerboxsaved@background=\box104
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarypetri.code.tex"
+File: tikzlibrarypetri.code.tex 2019/01/05 v3.1 (3.1)
+)
+\c@proofcount=\count466
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrine.s
+ty"
+File: lettrine.sty 2018-08-28 v2.21 (Daniel Flipo)
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\minifp.sty
+"
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count467
+)
+\c@DefaultLines=\count468
+\c@DefaultDepth=\count469
+\DefaultFindent=\dimen332
+\DefaultNindent=\dimen333
+\DefaultSlope=\dimen334
+\DiscardVskip=\dimen335
+\L@lbox=\box105
+\L@tbox=\box106
+\c@L@lines=\count470
+\c@L@depth=\count471
+\L@Pindent=\dimen336
+\L@Findent=\dimen337
+\L@Nindent=\dimen338
+\L@lraise=\dimen339
+\L@first=\dimen340
+\L@next=\dimen341
+\L@slope=\dimen342
+\L@height=\dimen343
+\L@novskip=\dimen344
+\L@target@ht=\dimen345
+\L@target@dp=\dimen346
+\L@target@tht=\dimen347
+\LettrineWidth=\dimen348
+\LettrineHeight=\dimen349
+\LettrineDepth=\dimen350
+
+Loading lettrine.cfg
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrine.c
+fg"))
+\c@theo=\count472
+\c@prop=\count473
+\c@dfn=\count474
+\c@lema=\count475
+\c@cor=\count476
+\c@resu=\count477
+ (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for FML/fncmi/m/it on input line 332.
+LaTeX Font Info:    Try loading font information for FML+fncmi on input line 33
+2.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fouriernc\fmlfncmi.
+fd"
+File: fmlfncmi.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncmi.
+)
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for FMS/fncm/m/n on input line 332.
+LaTeX Font Info:    Try loading font information for FMS+fncm on input line 332
+.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fouriernc\fmsfncm.f
+d"
+File: fmsfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FMS/fncm.
+)
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 332.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 332
+.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fourier\fmxfutm.fd"
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 332.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 332.
+
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 332.
+LaTeX Font Info:    ... okay on input line 332.
+LaTeX Font Info:    Try loading font information for T1+fnc on input line 332.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fouriernc\t1fnc.fd"
+File: t1fnc.fd 2005/12/13 scaled font definitions for T1/fnc.
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 10.18341pt on input line 332.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 332.
+\c@lstlisting=\count478
+
+
+Package layouts Warning: Layout scale set to 0.5 on input line 332.
+
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count479
+\scratchdimen=\dimen351
+\scratchbox=\box107
+\nofMPsegments=\count480
+\nofMParguments=\count481
+\everyMPshowfont=\toks65
+\MPscratchCnt=\count482
+\MPscratchDim=\dimen352
+\MPnumerator=\count483
+\makeMPintoPDFobject=\count484
+\everyMPtoPDFconversion=\toks66
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box108
+Package hyperref Info: Link coloring ON on input line 332.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
+y"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitle
+string.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count485
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 332.
+LaTeX Info: Redefining \ref on input line 332.
+LaTeX Info: Redefining \pageref on input line 332.
+LaTeX Info: Redefining \nameref on input line 332.
+(report.out) (report.out)
+\@outlinefile=\write6
+\openout6 = `report.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 332.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fnc' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ ABD: EveryShipout initializing macros
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translat
+or-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-abb
+reviations.cfg"
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
+put line 332.
+Package nag Info: Command \captionabove not defined, skipping amendment on inpu
+t line 332.
+Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
+t line 332.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input 
+line 332.
+Package nag Info: Command \topcaption not defined, skipping amendment on input 
+line 332.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 7.71893pt on input line 332.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 5.57996pt on input line 332.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 332.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 332.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 332.
+LaTeX Font Info:    Try loading font information for FML+fncm on input line 332
+.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fouriernc\fmlfncm.f
+d"
+File: fmlfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncm.
+)
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 332.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 332.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 332.
+LaTeX Font Info:    Try loading font information for U+msa on input line 332.
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa.cf
+g"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 332.
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb.cf
+g"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 332.
+
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stmaryrd\ustmry.fd"
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 332.
+ ("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 332.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wasysym\uwasy.fd"
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 332.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-eur.cf
+g"
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (frontmatter/title.tex
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 23.13821pt on input line 25.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 11.15991pt on input line 29.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 11.15991pt on input line 31.
+
+
+pdfTeX warning: pdflatex.exe (file ./logos/awi.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<logos/awi.pdf, id=166, 794.97pt x 614.295pt>
+File: logos/awi.pdf Graphic file (type pdf)
+<use logos/awi.pdf>
+Package pdftex.def Info: logos/awi.pdf  used on input line 34.
+(pdftex.def)             Requested size: 119.24036pt x 92.14026pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./logos/hsbrv.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<logos/hsbrv.pdf, id=167, 794.97pt x 614.295pt>
+File: logos/hsbrv.pdf Graphic file (type pdf)
+<use logos/hsbrv.pdf>
+Package pdftex.def Info: logos/hsbrv.pdf  used on input line 36.
+(pdftex.def)             Requested size: 119.24036pt x 92.14026pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./logos/mosaic.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<logos/mosaic.pdf, id=168, 794.97pt x 614.295pt>
+File: logos/mosaic.pdf Graphic file (type pdf)
+<use logos/mosaic.pdf>
+Package pdftex.def Info: logos/mosaic.pdf  used on input line 38.
+(pdftex.def)             Requested size: 119.24036pt x 92.14026pt.
+[1
+
+
+{C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logos/awi.
+pdf> <./logos/hsbrv.pdf> <./logos/mosaic.pdf>] [2
+
+]) (frontmatter/abstract.tex
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 13.39188pt on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/fnc/b/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 13.39188pt on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/bx/sc' in size <14.4> not available
+(Font)              Font shape `T1/fnc/b/sc' tried instead on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/b/sc' will be
+(Font)              scaled to size 13.39188pt on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 10.18341pt on input line 16.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 30.94487pt on input line 16.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 45.51921pt on input line 16.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 45.51921pt on input line 16.
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{H}});
+(lettrine.sty)             reported on input line 16.
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \clearpage
+                [1
+
+
+])pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.357 \clearemptydoublepage
+                            [2
+
+
+] (frontmatter/dedication.tex
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{H}});
+(lettrine.sty)             reported on input line 9.
+ [3
+
+]) [4
+
+
+]
+(frontmatter/declaration.tex
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{I}});
+(lettrine.sty)             reported on input line 24.
+
+Overfull \hbox (1.04909pt too wide) in paragraph at lines 27--29
+ \T1/fnc/m/sc/10.95 (-20) SIGNED: .............................................
+....... DATE: .......................................... 
+ []
+
+[5
+
+]) [6
+
+
+] (report.toc
+LaTeX Font Info:    Font shape `T1/fnc/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/fnc/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 10.18341pt on input line 2.
+ [7])
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 9.29993pt on input line 369.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 9.29993pt on input line 369.
+ [8] (report.lot
+LaTeX Font Info:    Font shape `T1/fnc/bx/sc' in size <10.95> not available
+(Font)              Font shape `T1/fnc/b/sc' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/fnc/b/sc' will be
+(Font)              scaled to size 10.18341pt on input line 2.
+) [9
+
+] [10
+
+] (report.lof) [11] [12
+
+]
+(chapters/chapter01/chap01.tex
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{T}});
+(lettrine.sty)             reported on input line 10.
+LaTeX Font Info:    Font shape `T1/fnc/bx/n' in size <12> not available
+(Font)              Font shape `T1/fnc/b/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 11.15991pt on input line 18.
+<chapters/chapter01/fig01/Nswellings.jpeg, id=335, 282.30469pt x 472.76625pt>
+File: chapters/chapter01/fig01/Nswellings.jpeg Graphic file (type jpg)
+<use chapters/chapter01/fig01/Nswellings.jpeg>
+Package pdftex.def Info: chapters/chapter01/fig01/Nswellings.jpeg  used on inpu
+t line 28.
+(pdftex.def)             Requested size: 106.4369pt x 178.2473pt.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 8.36993pt on input line 28.
+
+Overfull \hbox (12.54272pt too wide) in paragraph at lines 28--29
+ [][] 
+ []
+
+<chapters/chapter01/fig01/Mswellings.jpeg, id=336, 117.43875pt x 154.32657pt>
+File: chapters/chapter01/fig01/Mswellings.jpeg Graphic file (type jpg)
+<use chapters/chapter01/fig01/Mswellings.jpeg>
+Package pdftex.def Info: chapters/chapter01/fig01/Mswellings.jpeg  used on inpu
+t line 33.
+(pdftex.def)             Requested size: 130.8101pt x 171.88478pt.
+
+Overfull \hbox (36.91592pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+<chapters/chapter01/fig01/rhd1.jpeg, id=337, 164.86594pt x 246.1697pt>
+File: chapters/chapter01/fig01/rhd1.jpeg Graphic file (type jpg)
+<use chapters/chapter01/fig01/rhd1.jpeg>
+Package pdftex.def Info: chapters/chapter01/fig01/rhd1.jpeg  used on input line
+ 38.
+(pdftex.def)             Requested size: 115.12108pt x 171.88478pt.
+
+Overfull \hbox (21.2269pt too wide) in paragraph at lines 38--39
+ [][] 
+ []
+
+<chapters/chapter01/fig01/mutantrhd6.jpeg, id=338, 894.34125pt x 240.9pt>
+File: chapters/chapter01/fig01/mutantrhd6.jpeg Graphic file (type jpg)
+<use chapters/chapter01/fig01/mutantrhd6.jpeg>
+Package pdftex.def Info: chapters/chapter01/fig01/mutantrhd6.jpeg  used on inpu
+t line 43.
+(pdftex.def)             Requested size: 342.69168pt x 92.30975pt.
+
+Overfull \hbox (58.16412pt too wide) in paragraph at lines 43--44
+ [][] 
+ []
+
+<chapters/chapter01/fig01/auxab.jpeg, id=339, 315.42844pt x 93.34875pt>
+File: chapters/chapter01/fig01/auxab.jpeg Graphic file (type jpg)
+<use chapters/chapter01/fig01/auxab.jpeg>
+Package pdftex.def Info: chapters/chapter01/fig01/auxab.jpeg  used on input lin
+e 48.
+(pdftex.def)             Requested size: 344.20003pt x 101.85837pt.
+
+Overfull \hbox (59.67247pt too wide) in paragraph at lines 48--49
+ [][] 
+ []
+
+
+Package natbib Warning: Citation `rigas01' on page 1 undefined on input line 50
+.
+
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 10.18341pt on input line 50.
+
+Package natbib Warning: Citation `rigas01' on page 1 undefined on input line 50
+.
+
+<chapters/chapter01/fig01/devepzones.jpeg, id=348, 317.68687pt x 481.8pt>
+File: chapters/chapter01/fig01/devepzones.jpeg Graphic file (type jpg)
+<use chapters/chapter01/fig01/devepzones.jpeg>
+Package pdftex.def Info: chapters/chapter01/fig01/devepzones.jpeg  used on inpu
+t line 57.
+(pdftex.def)             Requested size: 146.91817pt x 222.81398pt.
+) (chapters/chapter04/chap04.tex [1
+
+
+] [2 <./chapters/chapter01/fig01/Nswellings.jpeg> <./chapters/chapter01/fig01/M
+swellings.jpeg> <./chapters/chapter01/fig01/rhd1.jpeg> <./chapters/chapter01/fi
+g01/mutantrhd6.jpeg> <./chapters/chapter01/fig01/auxab.jpeg>] [3 <./chapters/ch
+apter01/fig01/devepzones.jpeg>] [4
+
+]
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{T}});
+(lettrine.sty)             reported on input line 10.
+LaTeX Font Info:    Try loading font information for TS1+fnc on input line 17.
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fouriernc\ts1fnc.fd
+"
+File: ts1fnc.fd 2005/12/13 font definitions for TS1/fnc.
+)
+LaTeX Font Info:    Font shape `TS1/fnc/m/n' will be
+(Font)              scaled to size 10.18341pt on input line 17.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fnc' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<chapters/chapter04/fig04/2DProject.png, id=378, 507.39563pt x 426.09187pt>
+File: chapters/chapter04/fig04/2DProject.png Graphic file (type png)
+<use chapters/chapter04/fig04/2DProject.png>
+Package pdftex.def Info: chapters/chapter04/fig04/2DProject.png  used on input 
+line 20.
+(pdftex.def)             Requested size: 341.14561pt x 286.46817pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<chapters/chapter04/fig04/cartesiancoordinates.png, id=382, 813.0375pt x 569.87
+906pt>
+File: chapters/chapter04/fig04/cartesiancoordinates.png Graphic file (type png)
+
+<use chapters/chapter04/fig04/cartesiancoordinates.png>
+Package pdftex.def Info: chapters/chapter04/fig04/cartesiancoordinates.png  use
+d on input line 32.
+(pdftex.def)             Requested size: 408.7012pt x 286.46817pt.
+[5]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<chapters/chapter04/fig04/AngleBetaDef.png, id=390, 803.25093pt x 567.62062pt>
+File: chapters/chapter04/fig04/AngleBetaDef.png Graphic file (type png)
+<use chapters/chapter04/fig04/AngleBetaDef.png>
+Package pdftex.def Info: chapters/chapter04/fig04/AngleBetaDef.png  used on inp
+ut line 47.
+(pdftex.def)             Requested size: 405.3995pt x 286.46817pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./chapters/chapter04/fig04/2DProject.png>]
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 7.06795pt on input line 68.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 68.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 68.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 68.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 68.
+) (chapters/chapter05/chap05.tex
+[7 <./chapters/chapter04/fig04/cartesiancoordinates.png>] [8 <./chapters/chapte
+r04/fig04/AngleBetaDef.png>]
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{T}});
+(lettrine.sty)             reported on input line 10.
+
+
+pdfTeX warning: pdflatex.exe (file ./chapters/chapter05/fig05/App-Architecture.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<chapters/chapter05/fig05/App-Architecture.pdf, id=416, 596.98032pt x 844.65562
+pt>
+File: chapters/chapter05/fig05/App-Architecture.pdf Graphic file (type pdf)
+<use chapters/chapter05/fig05/App-Architecture.pdf>
+Package pdftex.def Info: chapters/chapter05/fig05/App-Architecture.pdf  used on
+ input line 20.
+(pdftex.def)             Requested size: 403.19937pt x 572.9534pt.
+[9
+
+]
+
+LaTeX Warning: Text page 10 contains only floats.
+
+[10 <./chapters/chapter05/fig05/App-Architecture.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./chapters/chapter05/fig05/AppStartup.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<chapters/chapter05/fig05/AppStartup.pdf, id=478, 499.8675pt x 662.475pt>
+File: chapters/chapter05/fig05/AppStartup.pdf Graphic file (type pdf)
+<use chapters/chapter05/fig05/AppStartup.pdf>
+Package pdftex.def Info: chapters/chapter05/fig05/AppStartup.pdf  used on input
+ line 36.
+(pdftex.def)             Requested size: 313.60628pt x 445.61484pt.
+[11 <./chapters/chapter05/fig05/AppStartup.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./chapters/chapter05/fig05/AlphaCalculationS
+ervice.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
+allowed
+<chapters/chapter05/fig05/AlphaCalculationService.pdf, id=530, 844.65562pt x 59
+6.98032pt>
+File: chapters/chapter05/fig05/AlphaCalculationService.pdf Graphic file (type p
+df)
+<use chapters/chapter05/fig05/AlphaCalculationService.pdf>
+Package pdftex.def Info: chapters/chapter05/fig05/AlphaCalculationService.pdf  
+used on input line 87.
+(pdftex.def)             Requested size: 405.3141pt x 286.46817pt.
+[12] [13 <./chapters/chapter05/fig05/AlphaCalculationService.pdf>]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 114.
+
+
+("C:\Users\Dell\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+)
+(chapters/chapter06/chap06.tex [14]
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{T}});
+(lettrine.sty)             reported on input line 10.
+ [15
+
+]
+<chapters/chapter06/fig06/staticIpAssignTab.png, id=568, 1371.1225pt x 770.88pt
+>
+File: chapters/chapter06/fig06/staticIpAssignTab.png Graphic file (type png)
+<use chapters/chapter06/fig06/staticIpAssignTab.png>
+Package pdftex.def Info: chapters/chapter06/fig06/staticIpAssignTab.png  used o
+n input line 62.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 7.43994pt on input line 68.
+<chapters/chapter06/fig06/BluetoothTetheringEnable.png, id=570, 1371.1225pt x 7
+70.88pt>
+File: chapters/chapter06/fig06/BluetoothTetheringEnable.png Graphic file (type 
+png)
+<use chapters/chapter06/fig06/BluetoothTetheringEnable.png>
+Package pdftex.def Info: chapters/chapter06/fig06/BluetoothTetheringEnable.png 
+ used on input line 78.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<chapters/chapter06/fig06/connectAccessPoint.png, id=572, 1028.34187pt x 578.16
+pt>
+File: chapters/chapter06/fig06/connectAccessPoint.png Graphic file (type png)
+<use chapters/chapter06/fig06/connectAccessPoint.png>
+Package pdftex.def Info: chapters/chapter06/fig06/connectAccessPoint.png  used 
+on input line 86.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+[16 <./chapters/chapter06/fig06/staticIpAssignTab.png>]
+<chapters/chapter06/fig06/DeploymentOverBluetooth.png, id=588, 1028.34187pt x 5
+51.05875pt>
+File: chapters/chapter06/fig06/DeploymentOverBluetooth.png Graphic file (type p
+ng)
+<use chapters/chapter06/fig06/DeploymentOverBluetooth.png>
+Package pdftex.def Info: chapters/chapter06/fig06/DeploymentOverBluetooth.png  
+used on input line 102.
+(pdftex.def)             Requested size: 356.39453pt x 190.98203pt.
+<chapters/chapter06/fig06/logcatOverBluetooth.png, id=590, 1028.34187pt x 545.7
+8906pt>
+File: chapters/chapter06/fig06/logcatOverBluetooth.png Graphic file (type png)
+<use chapters/chapter06/fig06/logcatOverBluetooth.png>
+Package pdftex.def Info: chapters/chapter06/fig06/logcatOverBluetooth.png  used
+ on input line 111.
+(pdftex.def)             Requested size: 359.8309pt x 190.98203pt.
+)
+(chapters/chapter07/chap07.tex [17 <./chapters/chapter06/fig06/BluetoothTetheri
+ngEnable.png> <./chapters/chapter06/fig06/connectAccessPoint.png>] [18 <./chapt
+ers/chapter06/fig06/DeploymentOverBluetooth.png> <./chapters/chapter06/fig06/lo
+gcatOverBluetooth.png>]
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{T}});
+(lettrine.sty)             reported on input line 10.
+<chapters/chapter07/fig07/MainDashboard.png, id=606, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/MainDashboard.png Graphic file (type png)
+<use chapters/chapter07/fig07/MainDashboard.png>
+Package pdftex.def Info: chapters/chapter07/fig07/MainDashboard.png  used on in
+put line 26.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<chapters/chapter07/fig07/GridwithLayers.png, id=608, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/GridwithLayers.png Graphic file (type png)
+<use chapters/chapter07/fig07/GridwithLayers.png>
+Package pdftex.def Info: chapters/chapter07/fig07/GridwithLayers.png  used on i
+nput line 48.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+[19
+
+] [20 <./chapters/chapter07/fig07/MainDashboard.png> <./chapters/chapter07/fig0
+7/GridwithLayers.png>]
+<chapters/chapter07/fig07/LayerTable.png, id=618, 429.10312pt x 197.23688pt>
+File: chapters/chapter07/fig07/LayerTable.png Graphic file (type png)
+<use chapters/chapter07/fig07/LayerTable.png>
+Package pdftex.def Info: chapters/chapter07/fig07/LayerTable.png  used on input
+ line 58.
+(pdftex.def)             Requested size: 336.0pt x 154.44302pt.
+<chapters/chapter07/fig07/GridwithBox.png, id=620, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/GridwithBox.png Graphic file (type png)
+<use chapters/chapter07/fig07/GridwithBox.png>
+Package pdftex.def Info: chapters/chapter07/fig07/GridwithBox.png  used on inpu
+t line 69.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+<chapters/chapter07/fig07/StaticStationDeployment.png, id=622, 1371.1225pt x 77
+0.88pt>
+File: chapters/chapter07/fig07/StaticStationDeployment.png Graphic file (type p
+ng)
+<use chapters/chapter07/fig07/StaticStationDeployment.png>
+Package pdftex.def Info: chapters/chapter07/fig07/StaticStationDeployment.png  
+used on input line 81.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<chapters/chapter07/fig07/Waypoint.png, id=624, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/Waypoint.png Graphic file (type png)
+<use chapters/chapter07/fig07/Waypoint.png>
+Package pdftex.def Info: chapters/chapter07/fig07/Waypoint.png  used on input l
+ine 93.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+Underfull \vbox (badness 1609) has occurred while \output is active []
+
+ [21 <./chapters/chapter07/fig07/LayerTable.png> <./chapters/chapter07/fig07/Gr
+idwithBox.png>]
+<chapters/chapter07/fig07/Sample.png, id=630, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/Sample.png Graphic file (type png)
+<use chapters/chapter07/fig07/Sample.png>
+Package pdftex.def Info: chapters/chapter07/fig07/Sample.png  used on input lin
+e 106.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./chapters/chapter07/fig07/StaticStationDeployment.png> <./chapters/chapt
+er07/fig07/Waypoint.png>]
+<chapters/chapter07/fig07/AdminMenu.png, id=636, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/AdminMenu.png Graphic file (type png)
+<use chapters/chapter07/fig07/AdminMenu.png>
+Package pdftex.def Info: chapters/chapter07/fig07/AdminMenu.png  used on input 
+line 123.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./chapters/chapter07/fig07/Sample.png>]
+<chapters/chapter07/fig07/SetupScreen.png, id=643, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/SetupScreen.png Graphic file (type png)
+<use chapters/chapter07/fig07/SetupScreen.png>
+Package pdftex.def Info: chapters/chapter07/fig07/SetupScreen.png  used on inpu
+t line 135.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+<chapters/chapter07/fig07/ConfigParameters.png, id=645, 1371.1225pt x 770.88pt>
+
+File: chapters/chapter07/fig07/ConfigParameters.png Graphic file (type png)
+<use chapters/chapter07/fig07/ConfigParameters.png>
+Package pdftex.def Info: chapters/chapter07/fig07/ConfigParameters.png  used on
+ input line 146.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+ [24 <./chapters/chapter07/fig07/AdminMenu.png> <./chapters/chapter07/fig07/Set
+upScreen.png>]
+<chapters/chapter07/fig07/SyncScreen.png, id=651, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/SyncScreen.png Graphic file (type png)
+<use chapters/chapter07/fig07/SyncScreen.png>
+Package pdftex.def Info: chapters/chapter07/fig07/SyncScreen.png  used on input
+ line 157.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+<chapters/chapter07/fig07/SyncInProgress.png, id=653, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/SyncInProgress.png Graphic file (type png)
+<use chapters/chapter07/fig07/SyncInProgress.png>
+Package pdftex.def Info: chapters/chapter07/fig07/SyncInProgress.png  used on i
+nput line 165.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <./chapters/chapter07/fig07/ConfigParameters.png> <./chapters/chapter07/fig
+07/SyncScreen.png>]
+<chapters/chapter07/fig07/Recovery.png, id=659, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/Recovery.png Graphic file (type png)
+<use chapters/chapter07/fig07/Recovery.png>
+Package pdftex.def Info: chapters/chapter07/fig07/Recovery.png  used on input l
+ine 177.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+<chapters/chapter07/fig07/AdminPrivileges.png, id=661, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/AdminPrivileges.png Graphic file (type png)
+<use chapters/chapter07/fig07/AdminPrivileges.png>
+Package pdftex.def Info: chapters/chapter07/fig07/AdminPrivileges.png  used on 
+input line 188.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./chapters/chapter07/fig07/SyncInProgress.png> <./chapters/chapter07/fig0
+7/Recovery.png>]
+<chapters/chapter07/fig07/AISDeployment.png, id=667, 1371.1225pt x 770.88pt>
+File: chapters/chapter07/fig07/AISDeployment.png Graphic file (type png)
+<use chapters/chapter07/fig07/AISDeployment.png>
+Package pdftex.def Info: chapters/chapter07/fig07/AISDeployment.png  used on in
+put line 200.
+(pdftex.def)             Requested size: 339.68338pt x 190.98203pt.
+) [27 <./chapters/chapter07/fig07/AdminPrivileges.png> <./chapters/chapter07/fi
+g07/AISDeployment.png>] [28
+
+] (chapters/appendices/app0A.tex
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {gray} {\textsc 
+{B}});
+(lettrine.sty)             reported on input line 10.
+) [29
+
+] [30
+
+]
+(report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[][][]$\T1/cmtt/m/n/10.95 https : / / community . esri . com / groups / coordin
+ate-[]reference-[]systems / blog / 2017 / 10 /
+ []
+
+) [31
+
+
+] [32
+
+]
+
+Package natbib Warning: There were undefined citations.
+
+No complaints by nag.
+\tf@toc=\write7
+\openout7 = `report.toc'.
+
+\tf@lot=\write8
+\openout8 = `report.lot'.
+
+\tf@lof=\write9
+\openout9 = `report.lof'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
+(report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 408.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 408.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 669F5C36C1D4F55C89D8FDAFB651D850;2632.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 2.01195pt have occurred.
+
+ )
+(\end occurred when \ifx on line 201 was incomplete)
+(\end occurred when \ifx on line 189 was incomplete)
+(\end occurred when \ifx on line 178 was incomplete)
+(\end occurred when \ifx on line 166 was incomplete)
+(\end occurred when \ifx on line 158 was incomplete)
+(\end occurred when \ifx on line 147 was incomplete)
+(\end occurred when \ifx on line 136 was incomplete)
+(\end occurred when \ifx on line 124 was incomplete)
+(\end occurred when \ifx on line 107 was incomplete)
+(\end occurred when \ifx on line 94 was incomplete)
+(\end occurred when \ifx on line 82 was incomplete)
+(\end occurred when \ifx on line 70 was incomplete)
+(\end occurred when \ifx on line 60 was incomplete)
+(\end occurred when \ifx on line 49 was incomplete)
+(\end occurred when \ifx on line 27 was incomplete)
+(\end occurred when \ifx on line 112 was incomplete)
+(\end occurred when \ifx on line 103 was incomplete)
+(\end occurred when \ifx on line 87 was incomplete)
+(\end occurred when \ifx on line 79 was incomplete)
+(\end occurred when \ifx on line 63 was incomplete)
+(\end occurred when \ifx on line 40 was incomplete)
+(\end occurred when \ifx on line 88 was incomplete)
+(\end occurred when \ifx on line 37 was incomplete)
+(\end occurred when \ifx on line 21 was incomplete)
+(\end occurred when \ifx on line 48 was incomplete)
+(\end occurred when \ifx on line 33 was incomplete)
+(\end occurred when \ifx on line 21 was incomplete)
+(\end occurred when \ifx on line 58 was incomplete)
+(\end occurred when \ifx on line 50 was incomplete) 
+Here is how much of TeX's memory you used:
+ 43784 strings out of 492946
+ 850202 string characters out of 3126710
+ 1068159 words of memory out of 3000000
+ 46471 multiletter control sequences out of 15000+200000
+ 634066 words of font info for 330 fonts, out of 3000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 52i,17n,80p,1009b,1175s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Dell\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0800.pk> <C:\Users\Dell\App
+Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk>{C:/Users/
+Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/De
+ll/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fourier/fourier-ml.pfb>
+<C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/fourier/fou
+rier-mlit.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/fourier/fourier-ms.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/urw/ncntrsbk/uncb8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/ncntrsbk/uncr8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
+Output written on report.pdf (46 pages, 2356587 bytes).
+PDF statistics:
+ 829 PDF objects out of 1000 (max. 8388607)
+ 146 named destinations out of 1000 (max. 500000)
+ 53244 words of extra memory for PDF output out of 61914 (max. 10000000)
+

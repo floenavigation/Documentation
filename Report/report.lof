@@ -1,0 +1,40 @@
+\babel@toc {english}{}
+\par \penalty \@M \textbf {{\scshape Figure} \hfill Page}\par \penalty \@M 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Hair-forming mutant cells.}}{2}{figure.1.1}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces }}{2}{figure.1.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces }}{2}{figure.1.1}% 
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces }}{2}{figure.1.1}% 
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces }}{2}{figure.1.1}% 
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces }}{2}{figure.1.1}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Developmental zones of an Arabidopsis root.}}{3}{figure.1.2}% 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Map Projection.}}{6}{figure.2.1}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Custom Coordinate System within Geographic Coordinate System.}}{7}{figure.2.2}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Custom Coordinate System with Angle Beta.}}{8}{figure.2.3}% 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Floe Navigation App Architecture.}}{10}{figure.3.1}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Running Services during first use.}}{11}{figure.3.2}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Mobile Stations within Coordinate System.}}{13}{figure.3.3}% 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Assigning Static IP to Ethernet Connection on the Tablet.}}{16}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Enabling Bluetooth Tethering on tablet.}}{17}{figure.4.2}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Connect to Bluetooth Access Point.}}{17}{figure.4.3}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces App Deployment from Android Studio using ADB over Bluetooth.}}{18}{figure.4.4}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Logcat Window in Android Studio displaying the Logs from the tablet.}}{18}{figure.4.5}% 
+\addvspace {10pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Dashboard as seen on Android Tablet.}}{20}{figure.5.1}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Visual Representation of the Coordinate System.}}{20}{figure.5.2}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Details Box for a Station.}}{21}{figure.5.3}% 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Deployment of a Static Station.}}{22}{figure.5.4}% 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Installation of a Waypoint.}}{22}{figure.5.5}% 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Installation of a Waypoint.}}{23}{figure.5.6}% 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Admin Dashboard.}}{24}{figure.5.7}% 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Grid Initial Configuration in progress.}}{24}{figure.5.8}% 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces List of Configurable Parameters.}}{25}{figure.5.9}% 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Sync Tool.}}{25}{figure.5.10}% 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Synchronization in Progress.}}{26}{figure.5.11}% 
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Recovery of a Station.}}{26}{figure.5.12}% 
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Creating a New Administrator.}}{27}{figure.5.13}% 
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Deploying a new Fixed Station.}}{27}{figure.5.14}% 
+\addvspace {10pt}
