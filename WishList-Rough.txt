@@ -1,0 +1,45 @@
+APP:
+	- Bearing from current Position to MotherShip in Details Box (any sort of bearing from one point to another maybe)
+	- Improve Navigation Functionalities (Goto a Certain point, create Tracks).
+	- Add a button to MapView to change the Scale quickly. Maybe add a new Configuration Parameter for this??
+	- Camera Integration and Photo of Site as part of Sample/Measurement??
+	- Change Labels to Match DSHIP & SensorWeb
+	- Check for Last Received Packet from each Fixed Station and give warning if it doesn't send a packet for a certain time. Maybe make it a part of 
+	  Validation Service or create a new Service for this.
+	- Add a new Configuration Parameter for the Previous point...
+	- Change Validation Service basic concept. Instead of calculating difference between Predicted and Received coordinates, it should check the distance
+	  from each Fixed Station and check if the distance is increasing or decearsing and then decide if the station is broken from the Floe. Would need 
+	  a change in Database Schema for Fixed Station or a new table in Database.
+	- Add Device ID to Samples label
+	- Add Confirmation Dialog box for Station Recovery and Waypoint Deletion.
+	- If possible somehow detect the Shrinking or Expansion of the Floe (But this is not completely realisitic as we need atleast something to be 
+	  constant).
+	- Create a Floating Action Button like Focus for the Layers as well instead of Options Menu.
+	- Create a Kalman filter or any other statistical method to incorporate learning in the Prediction Service.
+	- Show Units for the Scale on MapView.
+	- Zoom on the MapView shouldn't reset to maximum level on reopening of the Grid.
+	- Create Users and ability to see only customised User Map showing only their own point of interest.
+	- Show own heading or direction of movement on MapView (like on Google Maps) (High Priority) and also the distance to that point.
+	- Disable Keyboard on Start of Sample/Measurement
+	- Comment on Sample/Measurement needs to be mandatory for some users and optional for some. (Might require andother field or making the Comment
+	  field a drop-down with None option and free text as well).
+	- Ability to send and receive Emergency (maybe normal as well) AIS Messages from the App.
+	- Add units to the Difference screen in Setup Activity layout  (Can even be done now).
+	- Translate the coordinate system at the north poles - polar steographic coordinate system.
+	- Maybe it could be an option to only log the sampling activities with the automatic generation of an ID without having to enter too much information.
+	-Please change the text and the button names after the setup has run ‘If you wish to rerun press confirm’ with buttons ‘Confirm’ and ‘Finish’.  Maybe change ‘Confirm’ to ‘Rerun’, it’s very confusing which button to choose.
+	- Larger buttons within the menus
+	-The simplicity of the app is good but background map with ridges, stations, etc. visible with e.g. polygons would help a lot for orientation
+	-Grouping of waypoints
+	-How do you account for the ice floe separating into 2 or more dispersed floes. They would need separate coordinate systems since they translate and rotate independently of each other.
+		
+SyncServer:
+	- Before Exporting Samples check if the Samples are taken from the same device, in close proximty to each other and around the same time, if so then
+	  merge the labels to create one label and export that Label to DSHIP.
+	- Improve Duplication and Conflict management in Syncronhization Server. Remove the requirement of all the tablets being synchronized together.
+	
+Imp:
+
+   - Change max counter value in setup activity
+   - raise a flag if the setup is not completed and clear all the database tables.
+   - 
